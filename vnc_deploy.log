@@ -1,0 +1,15 @@
+
+###########################################################
+# Iniciando deploy: VNC Server # 30/06/2022-12:57:21,02 #
+###########################################################
+"C:\Uteis\VNC EXISTE" 
+"Removendo C:\Uteis\VNC"	
+"Copiando arquivos: "\\10.38.24.7\repo\vnc\RealVNC_Enterprise.exe -
+1 arquivo(s) copiado(s)
+"Copiando arquivos: "\\10.38.24.7\repo\vnc\realvnc.reg -
+"Copia finalizada."
+"Iniciando Instalado RealVNC Enterprise."
+"Finalizando config"
+############################################################
+# Deploy Finalizado: Zabbix Agent # 30/06/2022-12:57:30,17 #
+############################################################
